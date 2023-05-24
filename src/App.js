@@ -7,8 +7,9 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Hero />
+    <h1> Hey, This is Prajwal Neupane from Mechi Multiple Campus.. 😀😀</h1>
+      //<Navbar />
+      //<Hero />
       {/* <About /> */}
       {/* <Contact /> */}
       {/* <Footer /> */}
